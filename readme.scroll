@@ -3,6 +3,7 @@ title Aientist
 baseUrl https://aientist.com
 email hello@aientist.com
 git https://github.com/breck7/aientist
+permalink index.html
 
 metaTags
 
