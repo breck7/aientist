@@ -1,0 +1,35 @@
+title Aientist
+
+baseUrl https://aientist.com
+email hello@aientist.com
+git https://github.com/breck7/aientist
+
+metaTags
+
+hello@aientist.com
+ class email
+
+css
+ .email {
+   text-align: center;
+   padding: 300px 0 0 0;
+   font-size: 36px;
+   margin: 0;
+ }
+ .email a {
+  text-decoration: none;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: white;
+      text-shadow: 0 0 5px rgba(255, 255, 255, 0.7), 0 0 10px rgba(255, 255, 255, 0.7), 0 0 15px rgba(255, 255, 255, 0.7);
+ }
+ body, html {
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     height: 100%;
+    background: url('hero.webp') no-repeat center center fixed;
+    background-size: cover;
+ }
+
+ 
+writeText
