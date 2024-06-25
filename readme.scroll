@@ -5,6 +5,8 @@ email hello@aientist.com
 git https://github.com/breck7/aientist
 permalink index.html
 
+openGraphImage hero.jpeg
+
 metaTags
 
 hello@aientist.com
@@ -28,7 +30,7 @@ css
      padding: 0;
      width: 100%;
      height: 100%;
-    background: url('hero.webp') no-repeat center center fixed;
+    background: url('hero.jpeg') no-repeat center center fixed;
     background-size: cover;
  }
 
